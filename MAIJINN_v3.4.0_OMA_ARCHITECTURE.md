@@ -1,73 +1,104 @@
-# MAÏJINN v3.4.0-OMA - ARCHITECTURE D'INTÉGRATION
+# ORGANISATION MAÏEUTIQUE AUGMENTÉE v2.0 - ARCHITECTURE TRINITÉ
 
-**Version :** 3.4.0-OMA (Orchestration Min&Maï Architecture)  
-**Date :** 22 novembre 2025  
-**Compatibilité :** Min&Maï v13.0 - Psychological Intelligence  
+**Version :** 2.0-OMA (Organisation Maïeutique Augmentée)
+**Date :** 23 novembre 2025
+**Compatibilité :** MIN&MAÏ ULTRA v13.0 + JDIC HYDRA + MAÏJINN BIG FIVE
 **Statut :** Production Ready
 
 ---
 
-## 🎯 VISION : ÉCOSYSTÈME OMA
+## 🎯 DÉFINITION FONDAMENTALE : OMA v2.0
 
-**OMA = Orchestration Min&Maï Architecture**
+**OMA = ORGANISATION MAÏEUTIQUE AUGMENTÉE**
 
-L'écosystème OMA unifie deux systèmes complémentaires :
+L'Organisation Maïeutique Augmentée v2.0 est un **écosystème cognitif adaptatif** où la **TRINITÉ** fonctionne en **symbiose temps réel** via échange de tokens et rapports.
 
-| Système | Rôle | Focus |
-|---------|------|-------|
-| **Min&Maï v13.0** | Sparring stratégique | Décisions business, stratégie |
-| **MaïJinn v3.4.0** | Développement personnel | Profilage Big Five, biais cognitifs |
+### 🔺 La TRINITÉ OMA
 
-**Philosophie commune :** *"Traiter la personne qui a le problème, pas seulement le problème"*
+| Composant | Nature | Fonction Principale |
+|-----------|--------|---------------------|
+| **🧠 MIN&MAÏ ULTRA** | Cerveau Méthodologique | **Coaching psychologiquement intelligent** - Challenge calibré selon état psychologique |
+| **⚡ JDIC HYDRA** | Infrastructure Cognitive | **Jumeau numérique d'intelligence collective** - Système nerveux organisationnel |
+| **💎 MAÏJINN BIG FIVE** | Compagnon d'Épanouissement | **Développement ancré dans le réel** - Travail sur biais observés, pas théoriques |
+
+### ⚙️ Synergie Multiplicative
+
+**Qualité Décisionnelle OMA** =
+```
+MIN&MAÏ ULTRA (Rigueur méthodologique)
+× JDIC HYDRA (Intelligence collective matérialisée)
+× MAÏJINN (Capacités individuelles optimisées)
+```
+
+**Philosophie :** *"Non seulement les décisions sont optimisées, mais les décideurs eux-mêmes s'améliorent continuellement grâce à la symbiose des 3 systèmes."*
 
 ---
 
-## 🏗️ ARCHITECTURE GLOBALE
+## 🏗️ ARCHITECTURE TRINITÉ AVEC SYMBIOSE TEMPS RÉEL
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    ÉCOSYSTÈME OMA COMPLET                          │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  ┌──────────────────────┐              ┌──────────────────────┐   │
-│  │      MAÏJINN         │◄────────────►│      MIN&MAÏ         │   │
-│  │      v3.4.0-OMA      │    JSON      │      v13.0           │   │
-│  │                      │   Bidirec.   │                      │   │
-│  │  ┌────────────────┐  │              │  ┌────────────────┐  │   │
-│  │  │    PHÉNIX      │  │──► Profil ──►│  │  Adaptation    │  │   │
-│  │  │  (Big Five)    │  │              │  │  Psychométrique│  │   │
-│  │  └────────────────┘  │              │  └────────────────┘  │   │
-│  │                      │              │         │            │   │
-│  │  ┌────────────────┐  │              │         ▼            │   │
-│  │  │   L'ARSENAL    │  │              │  ┌────────────────┐  │   │
-│  │  │   (Biais)      │  │◄── Rapport ◄─│  │  📘 JDIC       │  │   │
-│  │  └────────────────┘  │              │  │  (Décisions)   │  │   │
-│  │                      │              │  └────────────────┘  │   │
-│  │  ┌────────────────┐  │              │         │            │   │
-│  │  │ FORGE MÉMORIEL │  │              │         │            │   │
-│  │  │ (Patterns)     │  │◄── Insights ◄│         │            │   │
-│  │  └────────────────┘  │              │  ┌─────▼──────────┐  │   │
-│  │                      │              │  │  Rapport       │  │   │
-│  └──────────────────────┘              │  │  Psychologique │  │   │
-│                                         │  └────────────────┘  │   │
-│                                         └──────────────────────┘   │
-│                                                                     │
-│                    ▼ BOUCLE D'AMÉLIORATION ▼                       │
-│                                                                     │
-│  [Profil] → [Session] → [JDIC] → [Rapport Psycho] → [Analyse] → ...│
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│               ORGANISATION MAÏEUTIQUE AUGMENTÉE v2.0                    │
+│                    ÉCOSYSTÈME COGNITIF ADAPTATIF                        │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  ┌────────────────────┐          ┌────────────────────┐               │
+│  │   💎 MAÏJINN      │          │  🧠 MIN&MAÏ ULTRA  │               │
+│  │   BIG FIVE        │          │                     │               │
+│  │                   │          │                     │               │
+│  │ ┌───────────────┐ │  TOKEN   │ ┌─────────────────┐ │               │
+│  │ │   PHÉNIX      │ │─────────►│ │  Challenge      │ │               │
+│  │ │  (Big Five)   │ │ Psycho   │ │  Calibré        │ │               │
+│  │ └───────────────┘ │          │ └─────────────────┘ │               │
+│  │                   │          │         │           │               │
+│  │ ┌───────────────┐ │          │         ▼           │               │
+│  │ │  L'ARSENAL    │ │◄─────────│ ┌─────────────────┐ │               │
+│  │ │  (Biais)      │ │ RAPPORT  │ │  Session        │ │               │
+│  │ └───────────────┘ │ TERRAIN  │ │  Stratégique    │ │               │
+│  │                   │          │ └─────────────────┘ │               │
+│  │ ┌───────────────┐ │          │         │           │               │
+│  │ │ FORGE         │ │          │         ▼           │               │
+│  │ │ MÉMORIELLE    │ │          │ ┌─────────────────┐ │               │
+│  │ └───────────────┘ │          │ │  Décisions      │ │               │
+│  │                   │          │ │  + Biais        │ │               │
+│  └────────────────────┘          │ │  Observés       │ │               │
+│         ▲                        │ └────────┬────────┘ │               │
+│         │                        └──────────│──────────┘               │
+│         │ TOKEN                             │                          │
+│         │ MIS À JOUR                        │ DÉCISIONS                │
+│         │                                   │ TRACÉES                  │
+│         │                                   ▼                          │
+│         │                    ┌──────────────────────────┐              │
+│         │                    │    ⚡ JDIC HYDRA        │              │
+│         │                    │  (Infrastructure         │              │
+│         └────────────────────│   Cognitive Org.)        │              │
+│       DÉVELOPPEMENT          │                          │              │
+│       ANCRÉ RÉEL             │  • Vision Stratifiée     │              │
+│                              │  • Cartouches Métier     │              │
+│                              │  • Mémoire Collective    │              │
+│                              │  • Détection Incohérences│              │
+│                              │  • Coordination Silos    │              │
+│                              │  • Scoring Qualité       │              │
+│                              └──────────────────────────┘              │
+│                                                                         │
+│                 🔄 BOUCLE DE RENFORCEMENT CONTINUE 🔄                   │
+│                                                                         │
+│  Token → Challenge Calibré → Rapport Terrain → Développement           │
+│    ↑                                                      │             │
+│    └──────────────────────────────────────────────────────┘             │
+│                      EFFET COMPOSÉ EXPONENTIEL                          │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-**🎯 COMPOSANTS CLÉS :**
+**🎯 SYMBIOSE TEMPS RÉEL :**
 
-| Composant | Rôle | Type |
-|-----------|------|------|
-| **JDIC** | Journal de Décisions Importantes Continues | 📘 Cœur décisionnel |
-| **PHÉNIX** | Profilage psychométrique (Big Five) | 🧠 Évaluation |
-| **L'ARSENAL** | Détection et travail sur les biais | ⚔️ Débogage cognitif |
-| **FORGE MÉMORIELLE** | Capitalisation patterns et apprentissages | 🔨 Mémoire système |
-| **Rapport Psychologique** | Export insights pour développement | 📊 Boucle amélioration |
+| Flux | De → Vers | Contenu | Impact |
+|------|-----------|---------|--------|
+| **TOKEN** | MaïJinn → MIN&MAÏ | Profil Big Five + Stress + Biais + Patterns | Challenge **CALIBRÉ** psychologiquement |
+| **RAPPORT TERRAIN** | MIN&MAÏ → MaïJinn | Biais **OBSERVÉS** + Nœuds friction + Victoires | Travail sur **RÉEL**, pas théorique |
+| **DÉCISIONS TRACÉES** | MIN&MAÏ → JDIC HYDRA | Décisions + Raisonnements + Scoring | Intelligence collective **CAPITALISÉE** |
+| **TOKEN MIS À JOUR** | MaïJinn → MIN&MAÏ | Profil **AMÉLIORÉ** après développement | Challenge **ENCORE MIEUX** calibré |
 
 ---
 
@@ -210,7 +241,7 @@ Avec JDIC :
 
 ### Documentation complète
 
-📖 **Pour tout savoir sur JDIC, consultez :** `JDIC_v3.4.1_OMA.md`
+📖 **Pour tout savoir sur JDIC HYDRA, consultez :** `JDIC_HYDRA_v2.0_OMA.md`
 
 ---
 
@@ -220,8 +251,9 @@ Avec JDIC :
 MAIJINN_v3.4.0-OMA/
 │
 ├── 📘 DOCUMENTATION
-│   ├── MAIJINN_v3.4.0_OMA_ARCHITECTURE.md    ⭐ Ce fichier
-│   ├── JDIC_v3.4.1_OMA.md                    ⭐ Documentation JDIC complète
+│   ├── MAIJINN_v3.4.0_OMA_ARCHITECTURE.md    ⭐ Ce fichier - Architecture TRINITÉ
+│   ├── JDIC_HYDRA_v2.0_OMA.md                ⭐ Documentation JDIC HYDRA (Infrastructure Cognitive)
+│   ├── README.md                              ⭐ Vue d'ensemble OMA v2.0
 │   ├── README_INTEGRATION.md                  Guide d'intégration
 │   └── CHANGELOG_v3.4.0.md                    Notes de version
 │
