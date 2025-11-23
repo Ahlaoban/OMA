@@ -1,10 +1,65 @@
-# 🔗 PACKAGE D'INTÉGRATION PHENIX ↔ MIN&MAÏ v13.0
+# 🔗 ÉCOSYSTÈME OMA - ORCHESTRATION MIN&MAÏ ARCHITECTURE
 
 ## 📦 Vue d'ensemble
 
-Ce dossier contient **tous les fichiers nécessaires** pour intégrer l'Intelligence Psychologique de Min&Maï v13.0 dans PHENIX/MaïJinn.
+Bienvenue dans **OMA (Orchestration Min&Maï Architecture)**, l'écosystème complet qui unifie :
 
-**Résultat :** Une boucle d'amélioration continue entre stratégie (Min&Maï) et développement personnel (MaïJinn).
+- **Min&Maï v13.0** : Sparring stratégique avec intelligence psychologique
+- **MaïJinn v3.4.0** : Développement personnel (PHÉNIX + ARSENAL + FORGE)
+- **JDIC** : Journal de Décisions Importantes Continues (cœur décisionnel)
+
+**Résultat :** Une boucle d'amélioration continue entre stratégie, décisions et développement personnel.
+
+### 🎯 Composants clés
+
+| Composant | Rôle | Documentation |
+|-----------|------|---------------|
+| **📘 JDIC** | Cœur décisionnel - Traçabilité des décisions | `JDIC_v3.4.1_OMA.md` |
+| **🧠 PHÉNIX** | Profilage psychométrique (Big Five) | `Prompt_PHENIX_v3.4.0_OMA.md` |
+| **⚔️ L'ARSENAL** | Détection et travail sur les biais | `Prompt_ARSENAL_v3.4.0_OMA.md` |
+| **🔨 FORGE** | Capitalisation patterns et apprentissages | `Forge_MEMORIELLE_v3.4.0_OMA.md` |
+
+---
+
+## 📘 LE JDIC : PIÈCE MAÎTRESSE DE OMA
+
+### Qu'est-ce que le JDIC ?
+
+**JDIC = Journal de Décisions Importantes Continues**
+
+Le JDIC est le **cœur documentaire** de l'écosystème OMA. C'est le registre vivant qui :
+
+- ✅ **Capture** toutes les décisions stratégiques avec contexte
+- ✅ **Structure** les actions avec échéances et responsables
+- ✅ **Trace** l'évolution décisionnelle dans le temps
+- ✅ **Alimente** MaïJinn pour le développement personnel
+- ✅ **Assure** la continuité entre les sessions
+
+> *"Une décision non documentée est une décision qui n'existe pas."*
+
+### Pourquoi JDIC est essentiel ?
+
+Sans JDIC, vous perdez :
+- ❌ La traçabilité de vos décisions
+- ❌ La continuité entre les sessions
+- ❌ La capacité à mesurer votre progression
+- ❌ L'analyse de vos patterns décisionnels
+
+Avec JDIC, vous gagnez :
+- ✅ Un historique complet et structuré
+- ✅ Des actions claires avec accountability
+- ✅ Une boucle d'amélioration continue
+- ✅ Une meilleure qualité décisionnelle
+
+### Commandes JDIC
+
+| Commande | Description | Sortie |
+|----------|-------------|--------|
+| `!rapport` ou `!jdic` | Génère le JDIC de la session | JDIC markdown |
+| `!rapport_complet` | Génère JDIC + Rapport Psycho | JDIC + JSON pour MaïJinn |
+| `!jdic_mois` | JDIC consolidé mensuel | JDIC consolidé |
+
+**📖 Documentation complète :** Consultez `JDIC_v3.4.1_OMA.md`
 
 ---
 
@@ -176,16 +231,27 @@ metrics = progression_minmai_command(
 ```
 [Jour 1] MaïJinn
   User : !export_profile_minmai
+  → Génère profil JSON
   → Copie le JSON généré
 
-[Jour 1] Min&Maï v13.0
+[Jour 2] Min&Maï v13.0
   User : !import_profile [JSON]
   → Min&Maï s'adapte au profil psychologique
   → Session de travail stratégique (45 min)
-  → !rapport_psycho
-  → Copie le JSON rapport
+  → !rapport_complet
+     ├─► 📘 JDIC (pour l'utilisateur)
+     │   • Décisions prises avec échéances
+     │   • Actions à prendre avec responsables
+     │   • Points en suspens
+     │   → L'utilisateur utilise ce JDIC pour son suivi opérationnel
+     │
+     └─► 📊 Rapport Psycho JSON (pour MaïJinn)
+         • Biais observés
+         • Nœuds de friction
+         • Victoires psychologiques
+         → Utilisateur copie ce JSON pour import dans MaïJinn
 
-[Jour 2] MaïJinn
+[Jour 3] MaïJinn
   User : !import_rapport_minmai [JSON rapport]
   → Analyse automatique (biais, nœuds, victoires)
   → Exercices recommandés
@@ -196,9 +262,16 @@ metrics = progression_minmai_command(
   User : !progression_minmai 7j
   → Synthèse de progression
   → Score global
+  → Biais en régression vs persistants
   → Prochaines étapes
 
+[Pendant la semaine] Utilisateur
+  → Consulte le JDIC régulièrement
+  → Met à jour les statuts des actions
+  → Prépare la prochaine session avec Min&Maï
+
 [Boucle continue...]
+  Profil → Session → JDIC → Rapport Psycho → Analyse → Progression → ...
 ```
 
 ---
@@ -234,10 +307,12 @@ pytest integration-phenix/tests/ --cov=integration-phenix --cov-report=html
 
 | Document | Description |
 |----------|-------------|
-| `README.md` | Ce fichier (vue d'ensemble) |
-| `README-INTEGRATION-PHENIX.md` | Guide technique détaillé |
-| `GUIDE-MISE-A-JOUR-MAIJINN.md` | Guide avec pseudocode complet (dans Min&Maï) |
-| `MAIJINN-INTEGRATION-GUIDE.md` | Spécifications techniques (dans Min&Maï) |
+| `README.md` | ⭐ Ce fichier (vue d'ensemble OMA) |
+| `JDIC_v3.4.1_OMA.md` | ⭐ Documentation complète du JDIC (pièce maîtresse) |
+| `MAIJINN_v3.4.0_OMA_ARCHITECTURE.md` | Architecture globale de l'écosystème OMA |
+| `README-INTEGRATION-PHENIX.md` | Guide technique d'intégration |
+| `GUIDE-MISE-A-JOUR-MAIJINN.md` | Guide avec pseudocode complet |
+| `MAIJINN-INTEGRATION-GUIDE.md` | Spécifications techniques |
 
 ---
 

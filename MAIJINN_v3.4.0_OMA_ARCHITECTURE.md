@@ -32,30 +32,42 @@ L'écosystème OMA unifie deux systèmes complémentaires :
 │  ┌──────────────────────┐              ┌──────────────────────┐   │
 │  │      MAÏJINN         │◄────────────►│      MIN&MAÏ         │   │
 │  │      v3.4.0-OMA      │    JSON      │      v13.0           │   │
-│  │                      │    Bidirec.  │                      │   │
+│  │                      │   Bidirec.   │                      │   │
 │  │  ┌────────────────┐  │              │  ┌────────────────┐  │   │
 │  │  │    PHÉNIX      │  │──► Profil ──►│  │  Adaptation    │  │   │
 │  │  │  (Big Five)    │  │              │  │  Psychométrique│  │   │
 │  │  └────────────────┘  │              │  └────────────────┘  │   │
-│  │                      │              │                      │   │
-│  │  ┌────────────────┐  │              │  ┌────────────────┐  │   │
-│  │  │   L'ARSENAL    │  │◄── Rapport ◄─│  │  Détection     │  │   │
-│  │  │   (Biais)      │  │              │  │  Nœuds Friction│  │   │
-│  │  └────────────────┘  │              │  └────────────────┘  │   │
-│  │                      │              │                      │   │
-│  │  ┌────────────────┐  │              │  ┌────────────────┐  │   │
-│  │  │ FORGE MÉMORIEL │  │◄── Insights ◄│  │  Rapports      │  │   │
-│  │  │ (Patterns)     │  │              │  │  Hybrides      │  │   │
-│  │  └────────────────┘  │              │  └────────────────┘  │   │
-│  │                      │              │                      │   │
-│  └──────────────────────┘              └──────────────────────┘   │
+│  │                      │              │         │            │   │
+│  │  ┌────────────────┐  │              │         ▼            │   │
+│  │  │   L'ARSENAL    │  │              │  ┌────────────────┐  │   │
+│  │  │   (Biais)      │  │◄── Rapport ◄─│  │  📘 JDIC       │  │   │
+│  │  └────────────────┘  │              │  │  (Décisions)   │  │   │
+│  │                      │              │  └────────────────┘  │   │
+│  │  ┌────────────────┐  │              │         │            │   │
+│  │  │ FORGE MÉMORIEL │  │              │         │            │   │
+│  │  │ (Patterns)     │  │◄── Insights ◄│         │            │   │
+│  │  └────────────────┘  │              │  ┌─────▼──────────┐  │   │
+│  │                      │              │  │  Rapport       │  │   │
+│  └──────────────────────┘              │  │  Psychologique │  │   │
+│                                         │  └────────────────┘  │   │
+│                                         └──────────────────────┘   │
 │                                                                     │
 │                    ▼ BOUCLE D'AMÉLIORATION ▼                       │
 │                                                                     │
-│  [Évaluation] → [Profil] → [Session] → [Rapport] → [Analyse] → ... │
+│  [Profil] → [Session] → [JDIC] → [Rapport Psycho] → [Analyse] → ...│
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+
+**🎯 COMPOSANTS CLÉS :**
+
+| Composant | Rôle | Type |
+|-----------|------|------|
+| **JDIC** | Journal de Décisions Importantes Continues | 📘 Cœur décisionnel |
+| **PHÉNIX** | Profilage psychométrique (Big Five) | 🧠 Évaluation |
+| **L'ARSENAL** | Détection et travail sur les biais | ⚔️ Débogage cognitif |
+| **FORGE MÉMORIELLE** | Capitalisation patterns et apprentissages | 🔨 Mémoire système |
+| **Rapport Psychologique** | Export insights pour développement | 📊 Boucle amélioration |
 
 ---
 
@@ -159,6 +171,49 @@ L'écosystème OMA unifie deux systèmes complémentaires :
 
 ---
 
+## 📘 LE JDIC : CŒUR DÉCISIONNEL DE OMA
+
+### Qu'est-ce que le JDIC ?
+
+**JDIC = Journal de Décisions Importantes Continues**
+
+Le JDIC est le registre vivant qui capture, structure et rend actionnables toutes les décisions stratégiques prises dans Min&Maï. C'est la **pièce maîtresse** qui relie :
+
+- ✅ **Les décisions stratégiques** (que faire, quand, par qui)
+- ✅ **Le développement personnel** (comment j'ai décidé, quels biais)
+- ✅ **L'amélioration continue** (évolution dans le temps)
+
+### Pourquoi le JDIC est essentiel ?
+
+> *"Une décision non documentée est une décision qui n'existe pas."*
+
+Sans JDIC :
+- ❌ Perte de traçabilité
+- ❌ Pas de continuité entre sessions
+- ❌ Impossibilité de mesurer la progression
+- ❌ Pas d'analyse des patterns décisionnels
+
+Avec JDIC :
+- ✅ **Traçabilité** : Historique complet des décisions
+- ✅ **Accountability** : Actions avec échéances et responsables
+- ✅ **Continuité** : Reprendre là où on s'est arrêté
+- ✅ **Apprentissage** : Analyser les patterns sur la durée
+- ✅ **Intégration** : Alimenter MaïJinn pour le développement
+
+### Commandes JDIC
+
+| Commande | Description | Sortie |
+|----------|-------------|--------|
+| `!rapport` ou `!jdic` | Génère le JDIC de la session | JDIC markdown |
+| `!rapport_complet` | Génère JDIC + Rapport Psycho | JDIC + JSON |
+| `!jdic_mois` | JDIC consolidé du mois | JDIC mensuel |
+
+### Documentation complète
+
+📖 **Pour tout savoir sur JDIC, consultez :** `JDIC_v3.4.1_OMA.md`
+
+---
+
 ## 📁 STRUCTURE DES FICHIERS
 
 ```
@@ -166,6 +221,7 @@ MAIJINN_v3.4.0-OMA/
 │
 ├── 📘 DOCUMENTATION
 │   ├── MAIJINN_v3.4.0_OMA_ARCHITECTURE.md    ⭐ Ce fichier
+│   ├── JDIC_v3.4.1_OMA.md                    ⭐ Documentation JDIC complète
 │   ├── README_INTEGRATION.md                  Guide d'intégration
 │   └── CHANGELOG_v3.4.0.md                    Notes de version
 │
@@ -299,10 +355,20 @@ get_minmai_reports(user_id, days) → List[Dict]
    → Décisions business
    → Détection automatique des nœuds de friction
 
-3. !rapport_complet (ou !rapport_psycho)
-   → JDIC pour l'utilisateur
-   → Rapport psycho JSON pour MaïJinn
-   → Utilisateur copie le rapport JSON
+3. !rapport_complet
+   → Génère deux exports :
+
+   A) 📘 JDIC (pour l'utilisateur)
+      • Décisions prises avec échéances
+      • Actions à prendre avec responsables
+      • Points en suspens
+      → L'utilisateur utilise ce JDIC pour son suivi opérationnel
+
+   B) 📊 Rapport Psycho JSON (pour MaïJinn)
+      • Biais observés
+      • Nœuds de friction
+      • Victoires psychologiques
+      → Utilisateur copie ce JSON pour import dans MaïJinn
 ```
 
 ### Jour 3 - Analyse & Développement
