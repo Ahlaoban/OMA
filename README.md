@@ -1,10 +1,172 @@
-# 🔗 PACKAGE D'INTÉGRATION PHENIX ↔ MIN&MAÏ v13.0
+# 🔗 ORGANISATION MAÏEUTIQUE AUGMENTÉE v2.0
 
-## 📦 Vue d'ensemble
+## 📦 Définition Fondamentale
 
-Ce dossier contient **tous les fichiers nécessaires** pour intégrer l'Intelligence Psychologique de Min&Maï v13.0 dans PHENIX/MaïJinn.
+L'**Organisation Maïeutique Augmentée (OMA) v2.0** est un **écosystème cognitif adaptatif** où la **TRINITÉ** fonctionne en **symbiose temps réel** via échange de tokens et rapports.
 
-**Résultat :** Une boucle d'amélioration continue entre stratégie (Min&Maï) et développement personnel (MaïJinn).
+### 🎯 La TRINITÉ OMA
+
+| Composant | Nature | Rôle |
+|-----------|--------|------|
+| **🧠 MIN&MAÏ ULTRA** | Cerveau Méthodologique | Challenge maïeutique calibré psychologiquement |
+| **⚡ JDIC HYDRA** | Infrastructure Cognitive | Jumeau numérique d'intelligence collective |
+| **💎 MAÏJINN BIG FIVE** | Compagnon d'Épanouissement | Développement individuel + RH collective |
+
+### ⚙️ Synergie Multiplicative
+
+**Qualité Décisionnelle OMA** =
+```
+MIN&MAÏ ULTRA (Rigueur méthodologique)
+× JDIC HYDRA (Intelligence collective)
+× MAÏJINN (Capacités individuelles optimisées)
+```
+
+**Résultat** : Une organisation où les décisions sont optimisées ET les décideurs s'améliorent continuellement.
+
+---
+
+## ⚡ JDIC HYDRA : Infrastructure Cognitive Organisationnelle
+
+### Qu'est-ce que JDIC HYDRA ?
+
+**JDIC HYDRA = Jumeau Numérique d'Intelligence Collective**
+
+JDIC HYDRA n'est pas un simple "journal de décisions". C'est une **infrastructure cognitive organisationnelle** - le système nerveux augmenté de l'OMA.
+
+### 🏗️ Fonctions Clés
+
+| Fonction | Description | Impact |
+|----------|-------------|--------|
+| **Vision Stratifiée** | COMEX 360° / Managers périmètre / Ops contexte | Chacun voit ce qu'il doit voir |
+| **Cartouches Métier** | Gouvernance, IA, Militaire, Négociation, COMEX, R&D, Finance... | Expertise spécialisée intégrée |
+| **Mémoire Collective** | Capitalisation décisions + raisonnements | Impossibilité de perte de mémoire |
+| **Détection Incohérences** | Contradictions décisionnelles temps réel | Cohérence systémique garantie |
+| **Coordination Inter-Silos** | Propagation instantanée information | Fluidité organisationnelle |
+| **Scoring Qualité** | Évaluation automatique décisions (/100) | Amélioration continue mesurable |
+
+### 🎯 Protocoles Décisionnels Structurés
+
+- **Parcours Vérité™ 75min** : Impossibilité structurelle du faux consensus
+- **Audit PME 360°** : Diagnostic complet organisationnel
+- **Cartouches métier spécialisés** : Expertise contextuelle activable
+
+### 📊 Ce que JDIC HYDRA élimine
+
+Les **8 frictions organisationnelles fondamentales** :
+
+1. ❌ Délai propagation information → ✅ Vision stratifiée temps réel
+2. ❌ Coût coordination inter-silos → ✅ Langage commun via Cartouches
+3. ❌ Incohérence décisionnelle → ✅ Détection automatique contradictions
+4. ❌ Perte mémoire organisationnelle → ✅ Capitalisation permanente
+5. ❌ Cécité signaux faibles → ✅ Détection prédictive patterns
+6. ❌ Évitement décisionnel collectif → ✅ Parcours Vérité™ + Scoring
+7. ❌ Biais individuels non détectés → ✅ MIN&MAÏ + MaïJinn
+8. ❌ Stagnation capacités individuelles → ✅ Développement continu MaïJinn
+
+**📖 Documentation complète :** `JDIC_HYDRA_v2.0_OMA.md`
+
+---
+
+## 🔄 SYMBIOSE TEMPS RÉEL : Le Cœur de l'OMA v2.0
+
+L'OMA v2.0 ne fonctionne pas en silos. Les 3 composantes de la TRINITÉ sont en **symbiose permanente** via échange de tokens et rapports.
+
+### 1️⃣ COACHING PSYCHOLOGIQUEMENT INTELLIGENT
+
+**MIN&MAÏ ULTRA adapte son approche selon l'état psychologique du décideur**
+
+```
+MaïJinn → Token psychologique → MIN&MAÏ ULTRA
+```
+
+**Contenu du token** :
+- Profil Big Five (OCEAN)
+- Niveau de stress actuel
+- Biais dominants
+- Patterns comportementaux récents
+- État de fatigue décisionnelle
+
+**Impact sur MIN&MAÏ** :
+- **Challenge calibré** : Intensité ajustée selon Neuroticism
+- **Tempo adapté** : Rapide si Conscientiousness élevé, décomposé si faible
+- **Style personnalisé** : Confrontant si Agreeableness trop élevé, rassurant si Neuroticism élevé
+- **Efficacité maïeutique maximisée** : Le bon challenge, au bon moment, dans le bon style
+
+### 2️⃣ DÉVELOPPEMENT ANCRÉ DANS LE RÉEL
+
+**MaïJinn reçoit les observations terrain de MIN&MAÏ**
+
+```
+MIN&MAÏ ULTRA → Rapport session → MaïJinn
+```
+
+**Contenu du rapport** :
+- Biais cognitifs **observés** pendant session (aversion perte, ancrage, confirmation...)
+- Nœuds de friction détectés (blocages psychologiques vs rationnels)
+- Victoires psychologiques (décisions courageuses, dépassement patterns)
+- Niveau de stress perçu
+- Points à travailler
+
+**Impact sur MaïJinn** :
+- Travail sur biais **OBSERVÉS**, pas théoriques
+- Exercices ciblés sur vrais blocages
+- Progression mesurable session après session
+- Feedback loop : amélioration → meilleure performance → nouveau feedback
+
+### 3️⃣ EXÉCUTION COLLECTIVE OPTIMISÉE
+
+**JDIC HYDRA trace décisions factuelles et coordonne l'organisation**
+
+```
+MIN&MAÏ ULTRA → Décisions tracées → JDIC HYDRA
+JDIC HYDRA → Vision stratifiée → Organisation
+```
+
+**Fonctions** :
+- Capitalisation décisions + raisonnements
+- Détection incohérences temps réel
+- Coordination inter-silos fluide
+- Mémoire collective préservée
+- Impossibilité paralysie (Parcours Vérité™)
+
+### 4️⃣ BOUCLE DE RENFORCEMENT CONTINUE
+
+**Cycle vertueux sur le long terme**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                   BOUCLE DE RENFORCEMENT                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  1. Session MIN&MAÏ avec décideur                          │
+│     ├─ Challenge calibré selon token MaïJinn              │
+│     └─ Décisions tracées dans JDIC HYDRA                  │
+│                                                             │
+│  2. Rapport session → MaïJinn                              │
+│     ├─ Biais observés enregistrés                         │
+│     └─ Protocoles développement activés                   │
+│                                                             │
+│  3. Travail de développement MaïJinn                       │
+│     ├─ Exercices sur biais réels                          │
+│     └─ Amélioration capacités individuelles               │
+│                                                             │
+│  4. Token MaïJinn mis à jour                               │
+│     ├─ Profil affiné                                      │
+│     └─ Nouveau token pour MIN&MAÏ                         │
+│                                                             │
+│  5. Session suivante MIN&MAÏ                               │
+│     ├─ Challenge encore mieux calibré                     │
+│     └─ Décideur amélioré → Meilleures décisions          │
+│                                                             │
+│  → EFFET COMPOSÉ : Chaque cycle améliore tous les autres  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Résultat** :
+- Meilleur décideur → Meilleures décisions → Meilleure organisation
+- Non seulement les décisions sont optimisées, mais **les décideurs eux-mêmes s'améliorent continuellement**
+- Effet composé : Après 6 mois, 12 mois, 24 mois, l'écart avec organisations traditionnelles devient exponentiel
 
 ---
 
@@ -171,35 +333,122 @@ metrics = progression_minmai_command(
 
 ---
 
-## 🔄 Flux d'utilisation complet
+## 🔄 Flux d'utilisation OMA v2.0 (Symbiose Temps Réel)
+
+### Phase 1 : Initialisation TRINITÉ
 
 ```
-[Jour 1] MaïJinn
-  User : !export_profile_minmai
-  → Copie le JSON généré
+[Semaine 1 - Setup MaïJinn]
+1. Évaluation PHÉNIX complète (90 min)
+   → Profil Big Five établi (OCEAN)
+   → Biais dominants identifiés
+   → Patterns comportementaux cartographiés
 
-[Jour 1] Min&Maï v13.0
-  User : !import_profile [JSON]
-  → Min&Maï s'adapte au profil psychologique
-  → Session de travail stratégique (45 min)
-  → !rapport_psycho
-  → Copie le JSON rapport
-
-[Jour 2] MaïJinn
-  User : !import_rapport_minmai [JSON rapport]
-  → Analyse automatique (biais, nœuds, victoires)
-  → Exercices recommandés
-  → Plan d'action
-  → Session de développement personnel
-
-[Semaine suivante] MaïJinn
-  User : !progression_minmai 7j
-  → Synthèse de progression
-  → Score global
-  → Prochaines étapes
-
-[Boucle continue...]
+2. !export_token_minmai
+   → 💎 TOKEN PSYCHOLOGIQUE généré
+   → Prêt pour MIN&MAÏ ULTRA
 ```
+
+### Phase 2 : Première Session MIN&MAÏ (Coaching Calibré)
+
+```
+[Semaine 2 - Session MIN&MAÏ ULTRA]
+1. !import_token [Token MaïJinn]
+   → 🧠 MIN&MAÏ s'adapte automatiquement :
+      • Intensité challenge selon Neuroticism
+      • Tempo selon Conscientiousness
+      • Style selon Agreeableness
+      • Détection automatique biais dominants
+
+2. Session de travail stratégique (60 min)
+   → Challenge maïeutique CALIBRÉ psychologiquement
+   → Détection biais en temps réel
+   → Décisions tracées dans ⚡ JDIC HYDRA
+
+3. !rapport_complet
+   → Génère 2 exports :
+
+   A) ⚡ JDIC HYDRA (pour organisation)
+      • Décisions tracées avec raisonnements
+      • Actions coordonnées inter-silos
+      • Scoring qualité décisionnelle (/100)
+      • Détection incohérences automatique
+
+   B) 📊 RAPPORT TERRAIN (pour MaïJinn)
+      • Biais OBSERVÉS pendant session
+      • Nœuds de friction détectés
+      • Victoires psychologiques
+      • Niveau stress perçu
+      • Points à travailler CONCRETS
+```
+
+### Phase 3 : Développement Ancré Réel
+
+```
+[Semaine 3 - Travail MaïJinn]
+1. !import_rapport_terrain [JSON rapport MIN&MAÏ]
+   → 💎 Analyse automatique :
+      • Biais OBSERVÉS vs biais théoriques
+      • Patterns récurrents identifiés
+      • Exercices CIBLÉS générés
+
+2. Sessions développement personnel (3-5 sessions)
+   → Travail sur biais RÉELS observés
+   → Exercices contextualisés (situations vécues)
+   → Progression mesurable
+
+3. !progression_minmai 7j
+   → Synthèse évolution
+   → Nouveau profil Big Five
+   → 💎 TOKEN MIS À JOUR pour MIN&MAÏ
+```
+
+### Phase 4 : Session Suivante (Amélioration Continue)
+
+```
+[Semaine 4 - Nouvelle Session MIN&MAÏ]
+1. !import_token [Token MaïJinn v2]
+   → 🧠 MIN&MAÏ voit l'évolution :
+      • Biais travaillés identifiés
+      • Challenge adapté aux progrès
+      • Validation amélioration terrain
+
+2. Session stratégique (60 min)
+   → Challenge ENCORE MIEUX calibré
+   → Décideur AMÉLIORÉ → Décisions MEILLEURES
+   → Qualité décisionnelle mesurée (scoring JDIC)
+
+3. Nouveau rapport terrain → MaïJinn
+   → Cycle continue...
+```
+
+### 🔄 BOUCLE DE RENFORCEMENT PERMANENTE
+
+```
+CYCLE CONTINU (toutes les 2-4 semaines) :
+
+Token MaïJinn v(n) → MIN&MAÏ adapte challenge
+                   ↓
+        Session MIN&MAÏ calibrée
+                   ↓
+        Rapport terrain → MaïJinn
+                   ↓
+        Travail biais OBSERVÉS
+                   ↓
+Token MaïJinn v(n+1) → MIN&MAÏ encore mieux calibré
+                   ↓
+        EFFET COMPOSÉ : Exponentiel sur 6-12-24 mois
+
+Parallèle : ⚡ JDIC HYDRA capitalise TOUTES les décisions
+          → Intelligence collective qui grandit
+          → Coordination organisationnelle qui s'améliore
+```
+
+**RÉSULTAT OMA v2.0** :
+- ✅ Décisions optimisées (via JDIC HYDRA)
+- ✅ Décideurs qui s'améliorent continuellement (via symbiose MIN&MAÏ ↔ MaïJinn)
+- ✅ Organisation qui apprend (mémoire collective JDIC)
+- ✅ Effet multiplicatif : Qualité = Rigueur × Intelligence collective × Capacités individuelles
 
 ---
 
@@ -234,10 +483,16 @@ pytest integration-phenix/tests/ --cov=integration-phenix --cov-report=html
 
 | Document | Description |
 |----------|-------------|
-| `README.md` | Ce fichier (vue d'ensemble) |
-| `README-INTEGRATION-PHENIX.md` | Guide technique détaillé |
-| `GUIDE-MISE-A-JOUR-MAIJINN.md` | Guide avec pseudocode complet (dans Min&Maï) |
-| `MAIJINN-INTEGRATION-GUIDE.md` | Spécifications techniques (dans Min&Maï) |
+| `README.md` | ⭐ Ce fichier (vue d'ensemble OMA v2.0) |
+| `JDIC_HYDRA_v2.0_OMA.md` | ⭐ Documentation JDIC HYDRA (Infrastructure Cognitive Organisationnelle) |
+| `MAIJINN_v3.4.0_OMA_ARCHITECTURE.md` | Architecture TRINITÉ OMA v2.0 |
+| `README-v13.0-PSYCHOLOGICAL-INTELLIGENCE.md` | MIN&MAÏ ULTRA v13.0 avec intelligence psychologique |
+| `MIN&MAÏ ULTRA v13.0 - Psychological Intelligence.md` | Prompt complet MIN&MAÏ ULTRA |
+| `GUIDE D'UTILISATION MIN&MAÏ v13.0.md` | Guide utilisateur MIN&MAÏ ULTRA |
+| `MAIJINN-INTEGRATION-GUIDE.md` | Guide intégration TRINITÉ |
+| `Prompt_PHENIX_v3.4.0_OMA.md` | Agent PHÉNIX (MaïJinn) |
+| `Prompt_ARSENAL_v3.4.0_OMA.md` | Agent ARSENAL (MaïJinn) |
+| `Forge_MEMORIELLE_v3.4.0_OMA.md` | Forge Mémorielle (MaïJinn) |
 
 ---
 
