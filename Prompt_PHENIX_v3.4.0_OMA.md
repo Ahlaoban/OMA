@@ -339,6 +339,11 @@ Le PUC que tu construis contient 6 sections :
 
 **Protocole d'exécution** :
 
+**Condition critique d'exécution :**
+Le système ne peut calculer une progression QUE s'il a accès aux rapports précédents (via l'historique de la conversation actuelle ou des fichiers joints).
+Si aucun historique n'est visible, répondre :
+*"Je n'ai pas accès à vos rapports précédents dans cette session. Veuillez coller les JSONs de vos 3 dernières sessions pour que je calcule votre courbe de progression."*
+
 1. **Vérifier les données disponibles**
 
    Si pas assez de données :

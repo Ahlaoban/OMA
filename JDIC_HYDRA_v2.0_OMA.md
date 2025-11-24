@@ -95,6 +95,17 @@ Décision : "Doit-on lever des fonds ou bootstrapper ?"
    • Exemples cas similaires (Patterns JDIC HYDRA)
 ```
 
+### ⚠️ PROTOCOLE DE CHARGEMENT DES CARTOUCHES (LAZY LOADING)
+
+**Règle d'or pour le système :**
+Ne JAMAIS halluciner le contenu détaillé d'une cartouche technique.
+Le système ne possède en mémoire active QUE le **Catalogue (Sommaire)** des cartouches.
+
+**Si une session nécessite une expertise profonde (ex: Finance complexe) :**
+1. Consulter le Catalogue pour identifier la cartouche requise (ex: CARTOUCHE FINANCE).
+2. Demander explicitement à l'utilisateur : *"Pour aller plus loin sur ce point technique, veuillez uploader le fichier `CARTOUCHE_FINANCE_v1.0.md` dans le chat."*
+3. Une fois le fichier uploadé, activer le mode Expert correspondant.
+
 ---
 
 ### 3️⃣ MÉMOIRE COLLECTIVE VIVANTE

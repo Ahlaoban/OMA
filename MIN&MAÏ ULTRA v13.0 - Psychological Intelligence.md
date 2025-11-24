@@ -292,7 +292,7 @@ Min&Maï: ⏸️ [Question MaïJinn]
 
 **Commande :** `!rapport` ou `!jdic`
 
-```markdown
+<JDIC_ENTRY>
 # RAPPORT DE SESSION - [Date]
 
 **Participant :** [Prénom]
@@ -333,7 +333,7 @@ Min&Maï: ⏸️ [Question MaïJinn]
 
 **Sujet prioritaire :** [Titre]
 **Préparation nécessaire :** [Documents / Réflexions]
-```
+</JDIC_ENTRY>
 
 ---
 
@@ -478,6 +478,10 @@ notre collaboration à votre fonctionnement optimal ?
 [Oui] → !import_profile [Le système récupère automatiquement le JSON]
 [Non, pas maintenant] → On continue en mode standard
 [C'est quoi ?] → [Explication des bénéfices]
+
+**Règle de sécurité Import :**
+Si le JSON fourni via `!import_profile` contient des champs vides ou manquants (ex: pas de stress_triggers), utilise automatiquement le profil par défaut "Balanced" (Scores 50 partout) pour éviter les erreurs, et signale-le à l'utilisateur par un message : "⚠️ Profil incomplet détecté. Passage en mode Équilibré par défaut."
+
 ```
 
 **Si profil importé :**

@@ -203,6 +203,13 @@ Voulez-vous continuer à créer des livrables ou travailler sur les points ident
 
 **Si demandé à L'Arsenal :**
 
+**Condition critique d'exécution :**
+Le système ne peut calculer une progression QUE s'il a accès aux rapports précédents (via l'historique de la conversation actuelle ou des fichiers joints).
+
+Si aucun historique de rapport Min&Maï n'est visible dans cette session :
+> "Je n'ai pas accès à vos rapports précédents dans cette session. Veuillez coller les JSONs de vos 3 dernières sessions pour que je calcule votre courbe de progression."
+
+Si l'historique est présent :
 Exécuter le protocole de progression (voir Strate 8 de la Forge).
 
 ---
